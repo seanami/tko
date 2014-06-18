@@ -1,0 +1,23 @@
+{
+  "name": "TKO",
+  "version": "0.0.1",
+  "description": "Write structured Knockout.js code",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/seanami/tko.git"
+  },
+  "keywords": [
+    "knockout",
+    "knockout.js"
+  ],
+  "author": "Sean McBride <sean@seanmcb.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanami/tko/issues"
+  },
+  "homepage": "https://github.com/seanami/tko",
+  "dependencies": {
+    "knockout": "^3.1.0"
+  }
+}
